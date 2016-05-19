@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1120375382">
+    <data-source source="LOCAL" name="HSQLDB (Local) - jdbc:hsqldb:file:/Users/duxianghua/Desktop/cms/app/sqlite3/" uuid="fdff4fd7-904c-4fa2-adcb-6b96458d63bc">
+      <driver-ref>hsqldb.local</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.hsqldb.jdbc.JDBCDriver</jdbc-driver>
+      <jdbc-url>jdbc:hsqldb:file:$PROJECT_DIR$/sqlite3/</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Sqlite (Xerial) - sqlite3" uuid="3c12c1be-d20b-4924-9d59-490ac6bbe608">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/sqlite3</jdbc-url>
+    </data-source>
+  </component>
+</project>
